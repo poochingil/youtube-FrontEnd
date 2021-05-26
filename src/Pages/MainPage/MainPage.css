@@ -1,0 +1,30 @@
+.MainPage {
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .top {
+    width: 99.8%;
+    height: 80px;
+    background-color: #202020;
+    
+  }
+  
+  .centre {
+    width: 100%;
+    height: 100%;
+    background-color: #212121;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid gray;
+  }
+  
+  .videoview {
+    width: 100%;
+    height: 100%;
+    background-color:#212121;
+    border: 1px solid gray;
+  }
